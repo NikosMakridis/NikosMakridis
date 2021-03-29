@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @NikosMakridis
 - 🌱 I’m currently learning Visual Studio
-- 💞️ I’m looking to collaborate on a nice team which can help me learn 
+- 💞️ I’m looking to collaborate with a nice team which can help me learn coding
 - 📫 How to reach me, e-mail : nikosmak22@outlook.com 
